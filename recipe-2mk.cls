@@ -1,6 +1,6 @@
 % class for recipes for Too Many Cooks
 % version 1.0 (2024-04-06)
-% Author: Elijah S. Berger
+% Author: nosnowfall
 % this defines layout and style for recipe tex files
 
 % ID
